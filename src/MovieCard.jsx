@@ -15,7 +15,9 @@ const MovieCard=({mdata})=>
             <span>{mdata.Type}</span>
             <h3>{mdata.Title}</h3>
           </div>
+         
         </div>
+       
     )
 }
 
